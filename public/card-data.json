@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues",
+    "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still receive an 'invalid credentials' error.",
+    "customer": "John Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "Jan 15, 2024"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Update Failed",
+    "description": "User is trying to update their credit card information for monthly billing, but the form submission is timing out and not saving the new card.",
+    "customer": "Sarah Chen",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "Jan 16, 2024"
+  },
+  {
+    "id": 1003,
+    "title": "Invoice Download Blocked",
+    "description": "Customer cannot download their January invoice from the billing section. The download button is unresponsive on both desktop and mobile devices.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "Jan 17, 2024"
+  },
+  {
+    "id": 1004,
+    "title": "Incorrect Login Alert",
+    "description": "User is receiving email notifications about incorrect login attempts, but they haven't tried to log in recently. Concerned about account security.",
+    "customer": "Emily Davis",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "Jan 17, 2024"
+  },
+  {
+    "id": 1005,
+    "title": "App Crash on Android 13",
+    "description": "Customer reports that the mobile app crashes immediately upon opening on their Android 13 device. Works fine on an older phone.",
+    "customer": "David Wilson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "Jan 19, 2024"
+  },
+  {
+    "id": 1007,
+    "title": "2FA Code Not Received",
+    "description": "Customer is not receiving 2FA codes on their registered phone number. They confirmed their number is correct in the profile settings.",
+    "customer": "James Anderson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "Jan 21, 2024"
+  },
+  {
+    "id": 1008,
+    "title": "Cannot Change Email",
+    "description": "Attempting to update profile email to a new address, but receiving a 'failed to save' error every time the change is attempted.",
+    "customer": "Olivia Miller",
+    "priority": "Low",
+    "status": "In-Progress",
+    "createdAt": "Jan 22, 2024"
+  },
+  {
+    "id": 1009,
+    "title": "Auto-Renewal Disabled",
+    "description": "Customer wants to enable auto-renewal for their annual subscription, but the toggle in the dashboard appears greyed out and is unresponsive.",
+    "customer": "Liam Harris",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "Jan 23, 2024"
+  },
+  {
+    "id": 1012,
+    "title": "Exported Data Corrupted",
+    "description": "The customer exported their activity data as a CSV, but the file is corrupted and cannot be opened by any spreadsheet software.",
+    "customer": "Amelia Lewis",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "Jan 26, 2024"
+  },
+  {
+    "id": 1013,
+    "title": "Wrong Product Delivered",
+    "description": "Customer ordered Product A but received Product B. Needs a return label and the correct item shipped ASAP.",
+    "customer": "Robert King",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "Jan 27, 2024"
+  },
+  {
+    "id": 1014,
+    "title": "Profile Picture Upload Error",
+    "description": "User is trying to update their profile picture, but the image uploader freezes at 99% and never completes the upload process.",
+    "customer": "Sophia White",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "Jan 28, 2024"
+  },
+  {
+    "id": 1015,
+    "title": "Can't Apply Discount Code",
+    "description": "The customer has a valid 15% discount code, but the field to enter it on the checkout page is missing or hidden.",
+    "customer": "William Hall",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "Jan 29, 2024"
+  },
+  {
+    "id": 1016,
+    "title": "API Key Expired Unexpectedly",
+    "description": "Developer is reporting that their active API key suddenly showed an 'expired' status, breaking their integration. Needs urgent investigation.",
+    "customer": "Ethan Scott",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "Jan 30, 2024"
+  },
+  {
+    "id": 1017,
+    "title": "Unsubscribe Link Broken",
+    "description": "Customer attempted to unsubscribe from the weekly newsletter but the link in the footer of the email leads to a blank page.",
+    "customer": "Ava Green",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "Jan 31, 2024"
+  },
+  {
+    "id": 1018,
+    "title": "Incorrect Charge Amount",
+    "description": "Customer was charged $9.99 for the service but the advertised price is $7.99For Seeking a $2 .$7 refund and clarification.",
+    "customer": "Ben Taylor",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "Feb 01, 2024"
+  }
+]
